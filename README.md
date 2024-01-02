@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data science, web dev, AI, and IT
 - 💞️ I’m looking to collaborate on data visualization projects
 - 📫 Reach me via email: egstep722@gmail.com
+- 🗣️ Check out my portfolio: https://sites.google.com/uncc.edu/riofef/home
 
 <!---
 egstep722/egstep722 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
